@@ -1,5 +1,6 @@
 
 **Ad Campaign Real-Time Data Processing Architecture**
+
 <img width="592" alt="image" src="https://github.com/user-attachments/assets/c0a365e5-4ddc-4535-8f41-8d9ce5038527" />
 
 
